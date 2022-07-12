@@ -1,0 +1,46 @@
+2022-07-12 14:29:41,450,root,INFO,This is my task for basics of string operations
+2022-07-12 14:29:41,450,root,INFO,WE are about to extact string from index 1 to index 30 with a jump of 3
+2022-07-12 14:29:41,450,root,INFO,Extracted string is - h   r tnrr
+2022-07-12 14:29:41,450,root,INFO,We are reversing a string 
+2022-07-12 14:29:41,450,root,INFO,reversed string is - mmargorp nohtyp tsrif ym si sihT: 
+2022-07-12 14:29:41,450,root,INFO,We are converting the string in upper case and splitting the string
+2022-07-12 14:29:41,450,root,INFO,splitted string is - ['MUSKAN', 'SINHA']
+2022-07-12 14:29:41,450,root,INFO,We are converting string to lower case
+2022-07-12 14:29:41,450,root,INFO,Lower case string is - muskan
+2022-07-12 14:29:41,466,root,INFO,WE are capitalizing a string
+2022-07-12 14:29:41,466,root,INFO,Capitalized string is - This is my first string python programm
+2022-07-12 14:29:41,466,root,INFO,We are giving an example of expand tab
+2022-07-12 14:29:41,466,root,INFO,expandstab string is - xyzyu   12345   abc
+2022-07-12 14:29:41,466,root,INFO,We are doing strip operation for string
+2022-07-12 14:29:41,466,root,INFO,strip string is - Muskan
+2022-07-12 14:29:41,466,root,INFO,We are doing  left strip operation for string
+2022-07-12 14:29:41,466,root,INFO,left strip string is - Muskan
+2022-07-12 14:29:41,466,root,INFO,We are doing  right strip operation for string
+2022-07-12 14:29:41,466,root,INFO, right strip string is - Muskan
+2022-07-12 14:29:41,466,root,INFO,We are replacing a string
+2022-07-12 14:29:41,466,root,INFO,Replaced string is - Muskan Sinha
+2022-07-12 14:29:41,466,root,INFO,We are trying to user center operation on string
+2022-07-12 14:29:41,466,root,INFO,String is - &&&&&&&Muskan&&&&&&&
+2022-07-12 14:43:28,902,root,INFO,This is my task for basics of string operations
+2022-07-12 14:43:28,902,root,INFO,WE are about to extact string from index 1 to index 30 with a jump of 3
+2022-07-12 14:43:28,902,root,INFO,Extracted string is - h   r tnrr
+2022-07-12 14:43:28,902,root,INFO,We are reversing a string 
+2022-07-12 14:43:28,902,root,INFO,reversed string is - mmargorp nohtyp tsrif ym si sihT: 
+2022-07-12 14:43:28,902,root,INFO,We are converting the string in upper case and splitting the string
+2022-07-12 14:43:28,902,root,INFO,splitted string is - ['MUSKAN', 'SINHA']
+2022-07-12 14:43:28,902,root,INFO,We are converting string to lower case
+2022-07-12 14:43:28,902,root,INFO,Lower case string is - muskan
+2022-07-12 14:43:28,902,root,INFO,WE are capitalizing a string
+2022-07-12 14:43:28,902,root,INFO,Capitalized string is - This is my first string python programm
+2022-07-12 14:43:28,902,root,INFO,We are giving an example of expand tab
+2022-07-12 14:43:28,902,root,INFO,expandstab string is - xyzyu   12345   abc
+2022-07-12 14:43:28,902,root,INFO,We are doing strip operation for string
+2022-07-12 14:43:28,902,root,INFO,strip string is - Muskan
+2022-07-12 14:43:28,902,root,INFO,We are doing  left strip operation for string
+2022-07-12 14:43:28,902,root,INFO,left strip string is - Muskan
+2022-07-12 14:43:28,902,root,INFO,We are doing  right strip operation for string
+2022-07-12 14:43:28,902,root,INFO, right strip string is - Muskan
+2022-07-12 14:43:28,902,root,INFO,We are replacing a string
+2022-07-12 14:43:28,902,root,INFO,Replaced string is - Muskan Sinha
+2022-07-12 14:43:28,902,root,INFO,We are trying to user center operation on string
+2022-07-12 14:43:28,902,root,INFO,String is - &&&&&&&Muskan&&&&&&&
